@@ -1,0 +1,11 @@
+Debug/
+shop/Debug/
+shop/Release/
+shop/shop.aps
+shop/shop.rc
+shop/shop.vcxproj
+shop/shop.vcxproj.filters
+shop/shop.vcxproj.user
+shop.sln
+.vs/
+
