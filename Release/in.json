@@ -1,0 +1,97 @@
+{
+    "shops": [
+        {
+            "address": "1/23",
+            "employees": [
+                {
+                    "identifier": "AnnEMP",
+                    "name": "Ann",
+                    "position": "admin",
+                    "salary": 10000
+                },
+                {
+                    "identifier": "BenEMP",
+                    "name": "Ben",
+                    "position": "seller",
+                    "salary": 5000
+                },
+                {
+                    "identifier": "JohnEMP",
+                    "name": "John",
+                    "position": "loader",
+                    "salary": 3000
+                }
+            ],
+            "employees_count": 3,
+            "identifier": "GammanumRC",
+            "name": "Gamma",
+            "products": [
+                {
+                    "count": 1000,
+                    "identifier": "applePROD",
+                    "name": "apple",
+                    "price": 2
+                },
+                {
+                    "count": 2023,
+                    "identifier": "breadPROD",
+                    "name": "bread",
+                    "price": 10
+                },
+                {
+                    "count": 5,
+                    "identifier": "cakePROD",
+                    "name": "cake",
+                    "price": 9
+                }
+            ]
+        },
+        {
+            "address": "1/23",
+            "employees": [
+                {
+                    "identifier": "AnnEMP",
+                    "name": "Ann",
+                    "position": "admin",
+                    "salary": 10000
+                },
+                {
+                    "identifier": "BenEMP",
+                    "name": "Ben",
+                    "position": "seller",
+                    "salary": 5000
+                },
+                {
+                    "identifier": "JohnEMP",
+                    "name": "John",
+                    "position": "loader",
+                    "salary": 3000
+                }
+            ],
+            "employees_count": 3,
+            "identifier": "SilponumRC",
+            "name": "Silpo",
+            "products": [
+                {
+                    "count": 1000,
+                    "identifier": "applePROD",
+                    "name": "apple",
+                    "price": 2
+                },
+                {
+                    "count": 2023,
+                    "identifier": "breadPROD",
+                    "name": "bread",
+                    "price": 10
+                },
+                {
+                    "count": 5,
+                    "identifier": "cakePROD",
+                    "name": "cake",
+                    "price": 9
+                }
+            ]
+        }
+    ],
+    "shops_count": 2
+}
